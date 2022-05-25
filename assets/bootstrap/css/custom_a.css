@@ -1,0 +1,36 @@
+/*divisions css starts here*/
+.main_div{
+    margin-left: 10%;
+}
+.lower_div{
+    display: flex;
+}
+.upper_div{
+    background-image: url("../../images/mou2.jpg");
+    background-size: 100%;
+    height: 65vh;
+}
+.div_2{
+    background-image: url("../../images/park2.jpg");
+}
+.div_3{
+    display: flex;
+}
+/*divisions css ends here*/
+
+/*button's css starts here*/
+.z{
+    border-radius: 20px;
+    border-color: green;
+    background: green;
+}
+.t{
+    border-radius: 20px;
+}
+
+.a{
+    border-radius: 20px;
+    border-color: yellow;
+    background: yellow;
+}
+/*button's css ends here*/
